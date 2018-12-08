@@ -1,0 +1,5 @@
+.command
+pull
+push
+merge
+revert
